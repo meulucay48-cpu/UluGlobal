@@ -59,3 +59,4 @@ messages/               # tr.json en.json ru.json ar.json
 Tarayıcı dili otomatik algılanır. RTL, Arapça'da `dir="rtl"` ile kökten uygulanır; layout'lar
 `ms-/me-/ps-/pe-` logical property'leri ve `rtl-flip` ile yön duyarlıdır.
 # UluGlobal
+# UluGlobal

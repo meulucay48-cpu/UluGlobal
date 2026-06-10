@@ -1,0 +1,223 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Kurumsal",
+    "products": "Ürünler",
+    "brands": "Markalar",
+    "projects": "Projeler",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "quote": "Teklif Al",
+    "menu": "Menü",
+    "close": "Kapat"
+  },
+  "hero": {
+    "eyebrow": "Seramik · Vitrifiye · Yapı Malzemeleri",
+    "title": "Mekânlara değer katan yapı çözümleri",
+    "subtitle": "Premium seramik, vitrifiye ve yapı kimyasallarıyla projelerinizi geleceğe taşıyoruz.",
+    "cta": "Teklif Alın",
+    "secondary": "Ürünleri Keşfedin",
+    "scroll": "Keşfetmek için kaydırın",
+    "expertise": "Uzmanlık alanımız"
+  },
+  "manifesto": {
+    "text": "Her yüzey bir hikâye anlatır. Biz, dayanıklılığı zarafetle buluşturan malzemeleri seçer, mimarinin diline tercüme ederiz."
+  },
+  "categories": {
+    "title": "Ürün Dünyamız",
+    "subtitle": "İhtiyacınıza uygun, sertifikalı ve dünya standartlarında ürünleri tek çatı altında sunuyoruz.",
+    "explore": "İncele",
+    "items": {
+      "ceramic": { "name": "Seramik", "desc": "Zemin ve duvar için geniş yüzey koleksiyonu" },
+      "chemicals": { "name": "Yapı Kimyasalları", "desc": "Yapıştırıcı, derz ve su yalıtımı" },
+      "vitrified": { "name": "Vitrifiye", "desc": "Banyo ve ıslak hacim çözümleri" },
+      "armature": { "name": "Armatür", "desc": "Banyo ve mutfak için armatür ve bataryalar" },
+      "parke": { "name": "Parke", "desc": "Laminat ve ahşap parke çözümleri" }
+    }
+  },
+  "stats": {
+    "title": "RAKAMLARLA ULU GLOBAL",
+    "projects": "Tamamlanan Proje",
+    "area": "m² Uygulama",
+    "countries": "İhracat Ülkesi",
+    "customer": "Müşteri",
+    "years": "Yıllık Tecrübe"
+  },
+  "process": {
+    "title": "Nasıl Çalışırız",
+    "steps": {
+      "one": { "title": "Seçin", "desc": "Geniş ürün yelpazesinden projenize uygun malzemeyi belirleyin." },
+      "two": { "title": "Teklif Alın", "desc": "Çok adımlı teklif sihirbazıyla ihtiyacınızı dakikalar içinde iletin." },
+      "three": { "title": "Teslim", "desc": "Hızlı tedarik ve güvenli lojistikle malzemeniz şantiyenizde." }
+    }
+  },
+  "brandsPage": {
+    "eyebrow": "İş Ortaklarımız",
+    "title": "Güvenilir markalarla yan yana",
+    "subtitle": "Sektörün öncü üreticilerinin ürünlerini tek çatı altında, yetkili güvencesiyle sunuyoruz.",
+    "gridTitle": "Çözüm ortaklarımız",
+    "gridSubtitle": "Seramikten vitrifiyeye, armatürden yapı kimyasallarına kadar uçtan uca tedarik.",
+    "ctaTitle": "Aradığınız markayı bulamadınız mı?",
+    "ctaText": "Portföyümüz sürekli genişliyor. İhtiyacınızı iletin, sizin için tedarik edelim.",
+    "categories": {
+      "ceramic": "Seramik",
+      "vitrified": "Vitrifiye",
+      "armature": "Armatür",
+      "chemicals": "Yapı Kimyasalları",
+      "panel": "Panel & Laminat"
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "Hakkımızda",
+    "title": "Yapının her katmanında kalite",
+    "lead": "Ulu Global Yapı, doğru malzemeyi doğru projeyle buluşturan bir tedarik ve danışmanlık markasıdır.",
+    "intro": "Yıllardır seramik, vitrifiye, armatür ve yapı kimyasalları alanında; mimarlara, müteahhitlere ve son kullanıcılara dünya standartlarında ürünler sunuyoruz. İşimiz sadece malzeme satmak değil; mekânlara karakter, dayanıklılık ve estetik kazandırmak.",
+    "storyTitle": "Hikâyemiz",
+    "storyText": "Küçük bir showroom ile başlayan yolculuğumuz; bugün yurt içi ve yurt dışında yüzlerce projeye dokunan bir tedarik ağına dönüştü. Her adımda aynı ilkeyi koruduk: en iyi malzeme, en doğru çözüm.",
+    "valuesTitle": "Değerlerimiz",
+    "values": {
+      "quality": { "title": "Kalite", "desc": "Yalnızca sertifikalı, dünya standartlarında ürünler." },
+      "trust": { "title": "Güven", "desc": "Şeffaf süreç, zamanında teslim, kalıcı iş birliği." },
+      "speed": { "title": "Hız", "desc": "Geniş stok ve güçlü lojistikle şantiyeye hızlı tedarik." },
+      "sustainability": { "title": "Sürdürülebilirlik", "desc": "Çevreye duyarlı üretim yapan markalarla çalışırız." }
+    },
+    "timelineTitle": "Yolculuğumuz",
+    "timeline": {
+      "t1": { "year": "2007", "title": "Kuruluş", "desc": "İlk showroom ile sektöre adım attık." },
+      "t2": { "year": "2013", "title": "Büyüme", "desc": "Ürün portföyü ve marka ağı genişledi." },
+      "t3": { "year": "2018", "title": "İhracat", "desc": "Yurt dışı projelere malzeme tedarikine başladık." },
+      "t4": { "year": "2024", "title": "Dijital", "desc": "Uçtan uca dijital teklif ve tedarik deneyimi." }
+    }
+  },
+  "contactPage": {
+    "eyebrow": "İletişim",
+    "title": "Sizi dinlemeyi çok isteriz",
+    "subtitle": "Proje danışmanlığı, fiyat teklifi veya genel sorularınız için bize ulaşın.",
+    "formTitle": "Bize yazın",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "messagePlaceholder": "Size nasıl yardımcı olabiliriz?",
+      "send": "Mesajı Gönder",
+      "whatsapp": "WhatsApp'tan Yaz",
+      "success": "Mesajınız hazırlandı! Gönderim penceresi açılıyor."
+    },
+    "hoursTitle": "Çalışma Saatleri",
+    "hours": {
+      "weekday": "Pazartesi – Cuma",
+      "saturday": "Cumartesi",
+      "sunday": "Pazar",
+      "closed": "Kapalı"
+    },
+    "infoTitle": "Bilgiler",
+    "labels": { "address": "Adres", "phone": "Telefon", "email": "E-posta" },
+    "mapTitle": "Showroom konumumuz",
+    "directions": "Yol Tarifi Al",
+    "locationsTitle": "Lokasyonlarımız",
+    "locationsSubtitle": "Merkez ofisimiz ve mağazalarımızla yanınızdayız.",
+    "types": { "office": "Merkez Ofis", "store": "Mağaza" }
+  },
+  "projectsPage": {
+    "eyebrow": "Referanslar",
+    "title": "Hayata geçirdiğimiz mekânlar",
+    "subtitle": "Otellerden konut projelerine, malzemelerimizin imza attığı seçili işler.",
+    "year": "Yıl",
+    "area": "Uygulama",
+    "scrollHint": "Gezmek için kaydırın",
+    "viewAll": "Tüm Projeler"
+  },
+  "construction": {
+    "eyebrow": "Temelden Teslime",
+    "title": "Bir yapı, adım adım",
+    "subtitle": "Her aşamada doğru malzeme. Kaydırın, birlikte inşa edelim.",
+    "steps": {
+      "s1": { "title": "Temel & Zemin", "desc": "Sağlam bir başlangıç: zemin hazırlığı ve temel dökümü." },
+      "s2": { "title": "Strüktür", "desc": "Kolonlar ve döşemelerle yapının iskeleti yükselir." },
+      "s3": { "title": "Duvarlar", "desc": "Bölme ve dış duvarlarla mekânlar biçim kazanır." },
+      "s4": { "title": "Seramik & Kaplama", "desc": "Zemin ve cephe; seramik ve kaplamalarla hayat bulur." },
+      "s5": { "title": "Vitrifiye & Teslim", "desc": "İnce işçilik, vitrifiye ve son dokunuşlarla teslim." }
+    }
+  },
+  "ctaBand": {
+    "title": "Projeniz için doğru malzemeyi birlikte seçelim",
+    "button": "Hemen Teklif Alın"
+  },
+  "footer": {
+    "tagline": "Yapı Malzemeleri · Seramik · Vitrifiye",
+    "explore": "Keşfet",
+    "company": "Kurumsal",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "address": "İstanbul, Türkiye"
+  },
+  "quote": {
+    "title": "Teklif İsteyin",
+    "subtitle": "Birkaç adımda ihtiyacınızı iletin, ekibimiz size dönsün.",
+    "next": "İleri",
+    "back": "Geri",
+    "submit": "Teklifi Gönder",
+    "whatsapp": "WhatsApp ile Gönder",
+    "step": "Adım",
+    "of": "/",
+    "steps": {
+      "category": "Kategori",
+      "items": "Ürünler",
+      "project": "Proje",
+      "contact": "İletişim",
+      "review": "Özet"
+    },
+    "category": {
+      "title": "Hangi ürün gruplarıyla ilgileniyorsunuz?",
+      "hint": "Birden fazla seçebilirsiniz."
+    },
+    "items": {
+      "title": "Ürün ve miktar ekleyin",
+      "product": "Ürün adı / kodu",
+      "quantity": "Miktar",
+      "unit": "Birim",
+      "add": "Ürün Ekle",
+      "empty": "Henüz ürün eklemediniz.",
+      "units": { "sqm": "m²", "piece": "adet", "pallet": "palet", "box": "kutu" }
+    },
+    "project": {
+      "title": "Proje bilgileri",
+      "type": "Proje tipi",
+      "types": { "residential": "Konut", "commercial": "Ticari", "hotel": "Otel", "other": "Diğer" },
+      "city": "Şehir",
+      "deadline": "Teslim tarihi",
+      "notes": "Notlar",
+      "notesPlaceholder": "Projenizle ilgili detayları yazın..."
+    },
+    "contactStep": {
+      "title": "Size nasıl ulaşalım?",
+      "name": "Ad Soyad",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "company": "Firma (opsiyonel)",
+      "files": "Proje dosyası (PDF / görsel)",
+      "filesHint": "Sürükleyip bırakın veya tıklayın"
+    },
+    "review": {
+      "title": "Teklif özeti",
+      "categories": "Kategoriler",
+      "products": "Ürünler",
+      "noProducts": "Ürün belirtilmedi",
+      "projectInfo": "Proje",
+      "contactInfo": "İletişim",
+      "success": "Teklifiniz alındı! En kısa sürede size döneceğiz."
+    },
+    "validation": {
+      "required": "Bu alan zorunludur",
+      "email": "Geçerli bir e-posta girin",
+      "phone": "Geçerli bir telefon girin",
+      "selectCategory": "Lütfen en az bir kategori seçin"
+    }
+  },
+  "common": {
+    "language": "Dil",
+    "loading": "Yükleniyor"
+  }
+}

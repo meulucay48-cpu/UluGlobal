@@ -5,16 +5,14 @@ import { cn } from '@/lib/utils';
 export function Logo({ light = false }: { light?: boolean }) {
   return (
     <Link href="/" className="group flex items-center gap-3.5" aria-label="Ulu Global Yapı">
-      <span className="relative block h-14 w-14 overflow-hidden rounded-2xl shadow-sm ring-1 ring-black/5 transition-transform duration-500 group-hover:scale-105 md:h-16 md:w-16">
-        {/* Tam logodan UG amblemini gösterecek şekilde çerçevelenir */}
+      <span className="relative block h-14 w-14 overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-black/5 transition-transform duration-500 group-hover:scale-105 md:h-16 md:w-16">
         <Image
-          src="/logo.png"
+          src="/logo-mark.png"
           alt="Ulu Global Yapı"
-          width={120}
-          height={120}
+          fill
           priority
-          className="absolute max-w-none"
-          style={{ width: '185%', height: '185%', left: '-42%', top: '-11%' }}
+          sizes="64px"
+          className="object-contain p-2.5"
         />
       </span>
       <span className="hidden flex-col leading-none sm:flex">

@@ -17,11 +17,13 @@ const config: Config = {
           700: '#4A4F54',
           900: '#23262A',
         },
+        // Aksan rengi — yeni lacivert logoya uyumlu çelik mavisi tonları.
+        // (Sınıf adı uyumluluğu için 'gold' anahtarı korunuyor.)
         gold: {
-          300: '#D8C29B',
-          400: '#C6A876',
-          500: '#B08D57',
-          600: '#93733F',
+          300: '#9AA7B2',
+          400: '#6B7C8B',
+          500: '#45576A',
+          600: '#2E3C49',
         },
       },
       fontFamily: {

@@ -31,18 +31,10 @@ export function Footer() {
           <div>
             <h4 className="text-xs uppercase tracking-widest text-gold-500">{t('explore')}</h4>
             <ul className="mt-5 space-y-3 text-sm">
-              {(['products', 'brands', 'projects', 'blog'] as const).map((k) => (
+              {(['products', 'brands', 'blog'] as const).map((k) => (
                 <li key={k}>
                   <Link
-                    href={
-                      k === 'products'
-                        ? '/urunler'
-                        : k === 'brands'
-                          ? '/markalar'
-                          : k === 'projects'
-                            ? '/projeler'
-                            : '/blog'
-                    }
+                    href={k === 'products' ? '/urunler' : k === 'brands' ? '/markalar' : '/blog'}
                     className="transition-colors hover:text-stone-50"
                   >
                     {nav(k)}

@@ -10,7 +10,6 @@ const links = [
   { href: '/kurumsal', key: 'about' },
   { href: '/urunler', key: 'products' },
   { href: '/markalar', key: 'brands' },
-  { href: '/projeler', key: 'projects' },
   { href: '/blog', key: 'blog' },
   { href: '/iletisim', key: 'contact' },
 ] as const;

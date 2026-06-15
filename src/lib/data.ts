@@ -13,16 +13,14 @@ export const categories: Category[] = [
   {
     key: 'ceramic',
     slug: 'seramik',
-    image:
-      'https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80',
+    image: '/products/seramik/delmar-160x320-mekan-yer-renk-ayrimsiz.jpg',
     tone: '#C9C0B4',
   },
   {
     key: 'chemicals',
     slug: 'yapi-kimyasallari',
-    image:
-      'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80',
-    tone: '#B08D57',
+    image: '/products/yapi-kimyasallari/yapikimyasal.jpeg',
+    tone: '#45576A',
   },
   {
     key: 'vitrified',
@@ -36,14 +34,14 @@ export const categories: Category[] = [
     slug: 'armatur',
     image:
       'https://images.unsplash.com/photo-1576698483491-8c43f0862543?auto=format&fit=crop&w=1200&q=80',
-    tone: '#C6A876',
+    tone: '#45576A',
   },
   {
     key: 'parke',
     slug: 'parke',
     image:
       'https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=1200&q=80',
-    tone: '#C0A06A',
+    tone: '#45576A',
   },
 ];
 
@@ -125,14 +123,14 @@ export interface Brand {
 export const brands: Brand[] = [
   // Seramik
   { id: 'ng-kutahya', name: 'NG Kütahya', category: 'ceramic', accent: '#4A4F54', logo: '/brands/ng-kutahya.svg' },
-  { id: 'qua-granite', name: 'QUA Granite', category: 'ceramic', accent: '#93733F', logo: '/brands/qua-granite.png' },
-  { id: 'bien', name: 'Bien Seramik', category: 'ceramic', accent: '#B08D57', logo: '/brands/bien.jpg' },
+  { id: 'qua-granite', name: 'QUA Granite', category: 'ceramic', accent: '#45576A', logo: '/brands/qua-granite.png' },
+  { id: 'bien', name: 'Bien Seramik', category: 'ceramic', accent: '#45576A', logo: '/brands/bien.jpg' },
   { id: 'duratiles', name: 'Duratiles', category: 'ceramic', accent: '#D1342B', logo: '/brands/duratiles.png' },
   { id: 'usak', name: 'Uşak Seramik', category: 'ceramic', accent: '#D1342B', logo: '/brands/usak.png' },
   // Yapı Kimyasalları
-  { id: 'kyk', name: 'KYK', category: 'chemicals', accent: '#B08D57', logo: '/brands/kyk.jpg' },
+  { id: 'kyk', name: 'KYK', category: 'chemicals', accent: '#45576A', logo: '/brands/kyk.jpg' },
   // Vitrifiye & Armatür
-  { id: 'vitra', name: 'VitrA', category: 'vitrified', accent: '#B08D57', logo: '/brands/vitra.png' },
+  { id: 'vitra', name: 'VitrA', category: 'vitrified', accent: '#45576A', logo: '/brands/vitra.png' },
   { id: 'isvea', name: 'İsvea', category: 'vitrified', accent: '#C0182A', logo: '/brands/isvea.png' },
   { id: 'penta', name: 'Penta', category: 'vitrified', accent: '#23262A', logo: '/brands/penta.jpg' },
   // Panel & Laminat

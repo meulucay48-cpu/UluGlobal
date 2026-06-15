@@ -22,12 +22,12 @@ export function KineticBand() {
           <span
             className="font-display text-5xl font-light md:text-7xl lg:text-8xl"
             style={{
-              WebkitTextStroke: '1px rgba(216,194,155,0.55)',
+              WebkitTextStroke: '1px rgba(154,167,178,0.55)',
               color: 'transparent',
             }}
           >
             ULU GLOBAL YAPI
-            <span className="mx-6" style={{ WebkitTextStroke: '0', color: '#B08D57' }}>
+            <span className="mx-6" style={{ WebkitTextStroke: '0', color: '#45576A' }}>
               ✦
             </span>
           </span>
